@@ -30,5 +30,5 @@
 <br>
 
 # Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadbarad&show_icons=true&locale=en&layout=compact" alt="sharadbarad" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadbarad&show_icons=true&locale=en" alt="sharadbarad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadbarad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharadbarad" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadbarad&show_icons=true&locale=en&theme=algolia" alt="sharadbarad" /></p>
