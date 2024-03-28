@@ -7,7 +7,7 @@
 - 💬 Ask me about **JavaScript, Cyber Security**
   <br>
 
-## Check out my profiles:
+## Check Out My Profiles:
 <p align="left">
 <a href="https://twitter.com/sharad_barad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharad_barad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharad-barad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-barad" height="30" width="40" /></a>
