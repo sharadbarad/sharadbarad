@@ -1,5 +1,6 @@
-<h1 align="center">Sharad Barad</h1>
 <h3 align="center">Building reliable systems, scalable infrastructure, and practical technology solutions.</h3>
+<hr>
+<br>
 
 ## 🌐 Profiles
 <br>
@@ -17,7 +18,7 @@
 
 <br>
 
----
+
 
 ## 🛠️ Technologies
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; align-items: center;">
