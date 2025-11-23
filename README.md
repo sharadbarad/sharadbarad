@@ -42,16 +42,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadbarad&show_icons=true&layout=compact&theme=algolia" alt="Top Languages"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadbarad&show_icons=true&theme=algolia" alt="GitHub Stats"/>
 </p>
-
 <br>
-
-## 📈 Additional Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharadbarad&count_private=true&show_icons=true&theme=algolia&hide=issues" alt="All Contributions"/>
-<img src="https://github-profile-trophy.vercel.app/?username=sharadbarad&theme=algolia" alt="Trophies"/>
-</p>
-
-<br><br>
 
 ---
 
