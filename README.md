@@ -1,17 +1,19 @@
 <h1 align="center">Sharad Barad</h1>
 <h3 align="center">Building reliable systems, scalable infrastructure, and practical technology solutions.</h3>
 
-<br>
-
 ## 🌐 Profiles
+<br>
 <p align="left">
+
 <a href="https://twitter.com/sharad_barad" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" alt="Twitter"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" />
+</a>&nbsp;&nbsp;
 <a href="https://medium.com/@sharadbarad" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" />
 </a>
+
 </p>
+
 
 <br>
 
