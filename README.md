@@ -37,15 +37,6 @@
 
 ---
 
-## 📊 GitHub Insights
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadbarad&show_icons=true&layout=compact&theme=algolia" alt="Top Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadbarad&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-</p>
-<br>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
 </div>
